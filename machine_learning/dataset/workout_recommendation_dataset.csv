@@ -1,0 +1,307 @@
+age,gender,bmi,fitness_level,goal,workout_plan
+36,Female,33.1,Beginner,Muscle Gain,Full Body Beginner
+49,Female,34.5,Beginner,Muscle Gain,Full Body Beginner
+49,Male,24.6,Beginner,Muscle Gain,Full Body Beginner
+32,Female,30.4,Beginner,Muscle Gain,Full Body Beginner
+48,Male,22.9,Beginner,Muscle Gain,Full Body Beginner
+27,Male,34.3,Beginner,Muscle Gain,Full Body Beginner
+44,Male,26.1,Beginner,Muscle Gain,Full Body Beginner
+33,Male,33.5,Beginner,Muscle Gain,Full Body Beginner
+41,Male,19.1,Beginner,Muscle Gain,Full Body Beginner
+22,Male,28.4,Beginner,Muscle Gain,Full Body Beginner
+31,Male,28.8,Beginner,Muscle Gain,Full Body Beginner
+21,Female,33.9,Beginner,Muscle Gain,Full Body Beginner
+28,Female,32.2,Beginner,Muscle Gain,Full Body Beginner
+28,Male,28.6,Beginner,Muscle Gain,Full Body Beginner
+36,Female,18.7,Beginner,Muscle Gain,Full Body Beginner
+42,Male,34.8,Beginner,Muscle Gain,Full Body Beginner
+41,Female,18.2,Beginner,Muscle Gain,Full Body Beginner
+41,Male,20.3,Beginner,Muscle Gain,Full Body Beginner
+38,Male,28.2,Beginner,Muscle Gain,Full Body Beginner
+27,Male,31.7,Beginner,Muscle Gain,Full Body Beginner
+47,Male,32.4,Beginner,Muscle Gain,Full Body Beginner
+33,Female,27.4,Beginner,Muscle Gain,Full Body Beginner
+19,Female,30.1,Beginner,Muscle Gain,Full Body Beginner
+26,Female,33.9,Beginner,Muscle Gain,Full Body Beginner
+45,Male,22.7,Beginner,Muscle Gain,Full Body Beginner
+23,Male,34.8,Beginner,Muscle Gain,Full Body Beginner
+21,Female,27.9,Beginner,Muscle Gain,Full Body Beginner
+38,Female,29.7,Beginner,Muscle Gain,Full Body Beginner
+27,Male,22.7,Beginner,Muscle Gain,Full Body Beginner
+26,Female,19.4,Beginner,Muscle Gain,Full Body Beginner
+37,Male,32.5,Beginner,Muscle Gain,Full Body Beginner
+47,Male,34.0,Beginner,Muscle Gain,Full Body Beginner
+36,Male,30.9,Beginner,Muscle Gain,Full Body Beginner
+43,Male,22.1,Beginner,Muscle Gain,Full Body Beginner
+32,Female,30.3,Intermediate,Muscle Gain,Push Pull Legs
+47,Female,30.8,Intermediate,Muscle Gain,Push Pull Legs
+39,Male,26.8,Intermediate,Muscle Gain,Push Pull Legs
+24,Male,21.7,Intermediate,Muscle Gain,Push Pull Legs
+38,Female,26.1,Intermediate,Muscle Gain,Push Pull Legs
+40,Male,29.1,Intermediate,Muscle Gain,Push Pull Legs
+45,Female,28.9,Intermediate,Muscle Gain,Push Pull Legs
+50,Male,26.3,Intermediate,Muscle Gain,Push Pull Legs
+27,Male,32.1,Intermediate,Muscle Gain,Push Pull Legs
+43,Male,29.9,Intermediate,Muscle Gain,Push Pull Legs
+43,Female,18.5,Intermediate,Muscle Gain,Push Pull Legs
+41,Male,22.2,Intermediate,Muscle Gain,Push Pull Legs
+42,Female,26.4,Intermediate,Muscle Gain,Push Pull Legs
+19,Male,19.6,Intermediate,Muscle Gain,Push Pull Legs
+26,Female,29.1,Intermediate,Muscle Gain,Push Pull Legs
+41,Female,26.3,Intermediate,Muscle Gain,Push Pull Legs
+29,Female,24.2,Intermediate,Muscle Gain,Push Pull Legs
+39,Female,34.2,Intermediate,Muscle Gain,Push Pull Legs
+48,Male,27.9,Intermediate,Muscle Gain,Push Pull Legs
+27,Female,21.8,Intermediate,Muscle Gain,Push Pull Legs
+31,Male,28.4,Intermediate,Muscle Gain,Push Pull Legs
+48,Female,20.2,Intermediate,Muscle Gain,Push Pull Legs
+21,Female,24.2,Intermediate,Muscle Gain,Push Pull Legs
+20,Male,19.7,Intermediate,Muscle Gain,Push Pull Legs
+35,Female,19.6,Intermediate,Muscle Gain,Push Pull Legs
+34,Male,27.8,Intermediate,Muscle Gain,Push Pull Legs
+40,Female,30.6,Intermediate,Muscle Gain,Push Pull Legs
+21,Male,33.7,Intermediate,Muscle Gain,Push Pull Legs
+29,Female,18.4,Intermediate,Muscle Gain,Push Pull Legs
+25,Male,18.4,Intermediate,Muscle Gain,Push Pull Legs
+40,Female,21.2,Intermediate,Muscle Gain,Push Pull Legs
+29,Female,28.5,Intermediate,Muscle Gain,Push Pull Legs
+19,Female,19.3,Intermediate,Muscle Gain,Push Pull Legs
+21,Female,22.3,Intermediate,Muscle Gain,Push Pull Legs
+26,Female,28.4,Advanced,Muscle Gain,Bro Split
+45,Female,18.3,Advanced,Muscle Gain,Bro Split
+50,Male,18.4,Advanced,Muscle Gain,Bro Split
+42,Male,18.5,Advanced,Muscle Gain,Bro Split
+49,Female,26.1,Advanced,Muscle Gain,Bro Split
+40,Male,28.2,Advanced,Muscle Gain,Bro Split
+47,Female,23.4,Advanced,Muscle Gain,Bro Split
+31,Male,32.2,Advanced,Muscle Gain,Bro Split
+46,Female,28.8,Advanced,Muscle Gain,Bro Split
+26,Male,34.2,Advanced,Muscle Gain,Bro Split
+27,Male,19.2,Advanced,Muscle Gain,Bro Split
+25,Female,28.1,Advanced,Muscle Gain,Bro Split
+36,Female,32.2,Advanced,Muscle Gain,Bro Split
+47,Male,32.3,Advanced,Muscle Gain,Bro Split
+33,Female,26.3,Advanced,Muscle Gain,Bro Split
+33,Male,23.6,Advanced,Muscle Gain,Bro Split
+25,Female,20.5,Advanced,Muscle Gain,Bro Split
+47,Female,23.1,Advanced,Muscle Gain,Bro Split
+43,Female,23.7,Advanced,Muscle Gain,Bro Split
+47,Female,29.2,Advanced,Muscle Gain,Bro Split
+33,Female,23.6,Advanced,Muscle Gain,Bro Split
+19,Male,23.1,Advanced,Muscle Gain,Bro Split
+41,Male,21.4,Advanced,Muscle Gain,Bro Split
+18,Female,31.2,Advanced,Muscle Gain,Bro Split
+41,Male,28.9,Advanced,Muscle Gain,Bro Split
+40,Male,23.5,Advanced,Muscle Gain,Bro Split
+35,Male,24.1,Advanced,Muscle Gain,Bro Split
+28,Female,27.8,Advanced,Muscle Gain,Bro Split
+30,Female,27.9,Advanced,Muscle Gain,Bro Split
+29,Female,24.9,Advanced,Muscle Gain,Bro Split
+36,Male,27.3,Advanced,Muscle Gain,Bro Split
+26,Female,18.1,Advanced,Muscle Gain,Bro Split
+43,Female,33.3,Advanced,Muscle Gain,Bro Split
+39,Male,30.8,Advanced,Muscle Gain,Bro Split
+23,Male,32.0,Beginner,Fat Loss,Walking + Bodyweight
+36,Female,18.2,Beginner,Fat Loss,Walking + Bodyweight
+49,Male,28.6,Beginner,Fat Loss,Walking + Bodyweight
+39,Male,27.2,Beginner,Fat Loss,Walking + Bodyweight
+49,Female,24.0,Beginner,Fat Loss,Walking + Bodyweight
+23,Female,28.8,Beginner,Fat Loss,Walking + Bodyweight
+49,Male,24.6,Beginner,Fat Loss,Walking + Bodyweight
+45,Male,25.8,Beginner,Fat Loss,Walking + Bodyweight
+45,Female,22.9,Beginner,Fat Loss,Walking + Bodyweight
+34,Male,31.1,Beginner,Fat Loss,Walking + Bodyweight
+42,Female,20.1,Beginner,Fat Loss,Walking + Bodyweight
+22,Female,23.6,Beginner,Fat Loss,Walking + Bodyweight
+47,Male,25.9,Beginner,Fat Loss,Walking + Bodyweight
+24,Male,24.2,Beginner,Fat Loss,Walking + Bodyweight
+28,Male,24.8,Beginner,Fat Loss,Walking + Bodyweight
+40,Male,21.8,Beginner,Fat Loss,Walking + Bodyweight
+19,Female,27.4,Beginner,Fat Loss,Walking + Bodyweight
+36,Male,30.0,Beginner,Fat Loss,Walking + Bodyweight
+39,Female,29.2,Beginner,Fat Loss,Walking + Bodyweight
+36,Female,34.1,Beginner,Fat Loss,Walking + Bodyweight
+32,Female,24.7,Beginner,Fat Loss,Walking + Bodyweight
+49,Female,21.2,Beginner,Fat Loss,Walking + Bodyweight
+31,Female,27.9,Beginner,Fat Loss,Walking + Bodyweight
+41,Male,20.3,Beginner,Fat Loss,Walking + Bodyweight
+35,Male,27.9,Beginner,Fat Loss,Walking + Bodyweight
+38,Female,31.1,Beginner,Fat Loss,Walking + Bodyweight
+35,Female,22.2,Beginner,Fat Loss,Walking + Bodyweight
+28,Male,31.9,Beginner,Fat Loss,Walking + Bodyweight
+30,Female,34.5,Beginner,Fat Loss,Walking + Bodyweight
+27,Female,24.8,Beginner,Fat Loss,Walking + Bodyweight
+50,Female,27.4,Beginner,Fat Loss,Walking + Bodyweight
+43,Male,26.7,Beginner,Fat Loss,Walking + Bodyweight
+37,Male,29.8,Beginner,Fat Loss,Walking + Bodyweight
+18,Female,30.5,Beginner,Fat Loss,Walking + Bodyweight
+26,Female,33.1,Intermediate,Fat Loss,HIIT + Strength
+27,Male,29.5,Intermediate,Fat Loss,HIIT + Strength
+24,Female,24.3,Intermediate,Fat Loss,HIIT + Strength
+36,Female,29.6,Intermediate,Fat Loss,HIIT + Strength
+30,Male,26.4,Intermediate,Fat Loss,HIIT + Strength
+19,Male,32.7,Intermediate,Fat Loss,HIIT + Strength
+34,Male,32.1,Intermediate,Fat Loss,HIIT + Strength
+24,Male,26.1,Intermediate,Fat Loss,HIIT + Strength
+46,Male,34.6,Intermediate,Fat Loss,HIIT + Strength
+40,Female,29.2,Intermediate,Fat Loss,HIIT + Strength
+33,Male,19.2,Intermediate,Fat Loss,HIIT + Strength
+37,Male,29.2,Intermediate,Fat Loss,HIIT + Strength
+23,Male,24.7,Intermediate,Fat Loss,HIIT + Strength
+44,Male,32.3,Intermediate,Fat Loss,HIIT + Strength
+44,Female,22.9,Intermediate,Fat Loss,HIIT + Strength
+45,Female,23.5,Intermediate,Fat Loss,HIIT + Strength
+45,Male,33.4,Intermediate,Fat Loss,HIIT + Strength
+47,Male,21.7,Intermediate,Fat Loss,HIIT + Strength
+34,Female,32.9,Intermediate,Fat Loss,HIIT + Strength
+27,Male,25.1,Intermediate,Fat Loss,HIIT + Strength
+35,Male,24.8,Intermediate,Fat Loss,HIIT + Strength
+19,Female,32.9,Intermediate,Fat Loss,HIIT + Strength
+31,Female,30.5,Intermediate,Fat Loss,HIIT + Strength
+31,Male,22.0,Intermediate,Fat Loss,HIIT + Strength
+39,Male,25.4,Intermediate,Fat Loss,HIIT + Strength
+37,Male,34.9,Intermediate,Fat Loss,HIIT + Strength
+21,Male,21.8,Intermediate,Fat Loss,HIIT + Strength
+48,Female,29.2,Intermediate,Fat Loss,HIIT + Strength
+23,Male,24.0,Intermediate,Fat Loss,HIIT + Strength
+38,Female,23.2,Intermediate,Fat Loss,HIIT + Strength
+27,Female,20.9,Intermediate,Fat Loss,HIIT + Strength
+45,Female,32.3,Intermediate,Fat Loss,HIIT + Strength
+29,Male,21.6,Intermediate,Fat Loss,HIIT + Strength
+32,Female,24.0,Intermediate,Fat Loss,HIIT + Strength
+42,Male,30.7,Advanced,Fat Loss,Advanced HIIT
+46,Male,32.0,Advanced,Fat Loss,Advanced HIIT
+37,Male,20.9,Advanced,Fat Loss,Advanced HIIT
+38,Male,34.5,Advanced,Fat Loss,Advanced HIIT
+46,Male,31.0,Advanced,Fat Loss,Advanced HIIT
+50,Male,33.8,Advanced,Fat Loss,Advanced HIIT
+49,Female,26.8,Advanced,Fat Loss,Advanced HIIT
+33,Male,20.4,Advanced,Fat Loss,Advanced HIIT
+22,Female,33.9,Advanced,Fat Loss,Advanced HIIT
+41,Male,19.7,Advanced,Fat Loss,Advanced HIIT
+34,Male,19.9,Advanced,Fat Loss,Advanced HIIT
+18,Female,31.1,Advanced,Fat Loss,Advanced HIIT
+42,Female,24.7,Advanced,Fat Loss,Advanced HIIT
+19,Male,21.8,Advanced,Fat Loss,Advanced HIIT
+36,Female,33.7,Advanced,Fat Loss,Advanced HIIT
+42,Male,20.1,Advanced,Fat Loss,Advanced HIIT
+45,Male,18.7,Advanced,Fat Loss,Advanced HIIT
+34,Female,28.0,Advanced,Fat Loss,Advanced HIIT
+36,Male,30.4,Advanced,Fat Loss,Advanced HIIT
+40,Male,30.4,Advanced,Fat Loss,Advanced HIIT
+37,Female,30.1,Advanced,Fat Loss,Advanced HIIT
+41,Male,24.1,Advanced,Fat Loss,Advanced HIIT
+26,Female,23.5,Advanced,Fat Loss,Advanced HIIT
+46,Male,33.4,Advanced,Fat Loss,Advanced HIIT
+49,Female,21.9,Advanced,Fat Loss,Advanced HIIT
+44,Male,19.6,Advanced,Fat Loss,Advanced HIIT
+37,Female,27.2,Advanced,Fat Loss,Advanced HIIT
+48,Female,24.0,Advanced,Fat Loss,Advanced HIIT
+21,Female,27.7,Advanced,Fat Loss,Advanced HIIT
+33,Female,28.4,Advanced,Fat Loss,Advanced HIIT
+40,Male,28.3,Advanced,Fat Loss,Advanced HIIT
+48,Female,32.0,Advanced,Fat Loss,Advanced HIIT
+20,Male,27.2,Advanced,Fat Loss,Advanced HIIT
+18,Male,22.2,Advanced,Fat Loss,Advanced HIIT
+50,Female,22.4,Beginner,Endurance,Cardio Circuit
+25,Male,31.2,Beginner,Endurance,Cardio Circuit
+47,Female,27.1,Beginner,Endurance,Cardio Circuit
+19,Male,29.2,Beginner,Endurance,Cardio Circuit
+20,Male,24.3,Beginner,Endurance,Cardio Circuit
+31,Male,23.0,Beginner,Endurance,Cardio Circuit
+23,Male,20.6,Beginner,Endurance,Cardio Circuit
+42,Female,21.6,Beginner,Endurance,Cardio Circuit
+29,Female,30.5,Beginner,Endurance,Cardio Circuit
+33,Female,31.4,Beginner,Endurance,Cardio Circuit
+46,Male,30.3,Beginner,Endurance,Cardio Circuit
+20,Female,31.8,Beginner,Endurance,Cardio Circuit
+37,Male,20.6,Beginner,Endurance,Cardio Circuit
+50,Male,27.2,Beginner,Endurance,Cardio Circuit
+25,Female,31.5,Beginner,Endurance,Cardio Circuit
+28,Male,22.9,Beginner,Endurance,Cardio Circuit
+33,Male,23.0,Beginner,Endurance,Cardio Circuit
+28,Female,33.1,Beginner,Endurance,Cardio Circuit
+24,Female,30.0,Beginner,Endurance,Cardio Circuit
+34,Male,31.1,Beginner,Endurance,Cardio Circuit
+28,Male,22.4,Beginner,Endurance,Cardio Circuit
+31,Female,23.2,Beginner,Endurance,Cardio Circuit
+47,Male,18.8,Beginner,Endurance,Cardio Circuit
+31,Female,27.8,Beginner,Endurance,Cardio Circuit
+47,Female,26.5,Beginner,Endurance,Cardio Circuit
+39,Female,33.4,Beginner,Endurance,Cardio Circuit
+23,Male,29.0,Beginner,Endurance,Cardio Circuit
+41,Female,28.1,Beginner,Endurance,Cardio Circuit
+32,Male,24.8,Beginner,Endurance,Cardio Circuit
+20,Female,27.4,Beginner,Endurance,Cardio Circuit
+31,Female,33.9,Beginner,Endurance,Cardio Circuit
+27,Male,21.4,Beginner,Endurance,Cardio Circuit
+25,Male,34.3,Beginner,Endurance,Cardio Circuit
+32,Female,19.9,Beginner,Endurance,Cardio Circuit
+20,Male,32.3,Intermediate,Endurance,Running Program
+23,Female,21.4,Intermediate,Endurance,Running Program
+43,Female,25.8,Intermediate,Endurance,Running Program
+29,Male,21.2,Intermediate,Endurance,Running Program
+30,Male,22.5,Intermediate,Endurance,Running Program
+37,Female,34.9,Intermediate,Endurance,Running Program
+29,Female,32.9,Intermediate,Endurance,Running Program
+22,Male,32.7,Intermediate,Endurance,Running Program
+30,Female,25.9,Intermediate,Endurance,Running Program
+33,Male,32.5,Intermediate,Endurance,Running Program
+50,Female,20.5,Intermediate,Endurance,Running Program
+48,Male,24.0,Intermediate,Endurance,Running Program
+40,Male,22.0,Intermediate,Endurance,Running Program
+38,Female,19.2,Intermediate,Endurance,Running Program
+35,Female,27.8,Intermediate,Endurance,Running Program
+26,Male,32.9,Intermediate,Endurance,Running Program
+41,Female,24.7,Intermediate,Endurance,Running Program
+37,Male,23.1,Intermediate,Endurance,Running Program
+18,Male,31.7,Intermediate,Endurance,Running Program
+48,Female,19.9,Intermediate,Endurance,Running Program
+32,Male,19.7,Intermediate,Endurance,Running Program
+45,Female,20.9,Intermediate,Endurance,Running Program
+34,Female,23.2,Intermediate,Endurance,Running Program
+44,Female,29.3,Intermediate,Endurance,Running Program
+27,Female,26.7,Intermediate,Endurance,Running Program
+31,Male,23.5,Intermediate,Endurance,Running Program
+35,Male,25.3,Intermediate,Endurance,Running Program
+45,Male,27.8,Intermediate,Endurance,Running Program
+35,Male,28.7,Intermediate,Endurance,Running Program
+46,Male,24.6,Intermediate,Endurance,Running Program
+47,Female,32.0,Intermediate,Endurance,Running Program
+41,Male,19.6,Intermediate,Endurance,Running Program
+25,Male,23.3,Intermediate,Endurance,Running Program
+20,Female,20.8,Intermediate,Endurance,Running Program
+49,Female,21.0,Advanced,Endurance,Marathon Training
+30,Female,26.0,Advanced,Endurance,Marathon Training
+47,Female,31.2,Advanced,Endurance,Marathon Training
+26,Male,20.1,Advanced,Endurance,Marathon Training
+29,Female,18.5,Advanced,Endurance,Marathon Training
+21,Male,27.1,Advanced,Endurance,Marathon Training
+48,Male,33.1,Advanced,Endurance,Marathon Training
+50,Female,33.2,Advanced,Endurance,Marathon Training
+38,Male,28.2,Advanced,Endurance,Marathon Training
+38,Female,27.2,Advanced,Endurance,Marathon Training
+45,Female,23.4,Advanced,Endurance,Marathon Training
+37,Male,32.5,Advanced,Endurance,Marathon Training
+46,Female,26.0,Advanced,Endurance,Marathon Training
+47,Female,31.3,Advanced,Endurance,Marathon Training
+35,Female,23.2,Advanced,Endurance,Marathon Training
+25,Female,29.0,Advanced,Endurance,Marathon Training
+36,Male,19.5,Advanced,Endurance,Marathon Training
+20,Female,33.7,Advanced,Endurance,Marathon Training
+46,Female,34.5,Advanced,Endurance,Marathon Training
+35,Female,21.8,Advanced,Endurance,Marathon Training
+21,Male,26.3,Advanced,Endurance,Marathon Training
+27,Male,31.6,Advanced,Endurance,Marathon Training
+31,Male,20.8,Advanced,Endurance,Marathon Training
+32,Female,30.8,Advanced,Endurance,Marathon Training
+35,Male,31.2,Advanced,Endurance,Marathon Training
+23,Male,28.4,Advanced,Endurance,Marathon Training
+18,Male,27.8,Advanced,Endurance,Marathon Training
+35,Female,20.5,Advanced,Endurance,Marathon Training
+36,Female,32.0,Advanced,Endurance,Marathon Training
+48,Male,32.0,Advanced,Endurance,Marathon Training
+27,Male,34.8,Advanced,Endurance,Marathon Training
+39,Female,32.2,Advanced,Endurance,Marathon Training
+28,Male,33.3,Advanced,Endurance,Marathon Training
+39,Female,29.5,Advanced,Endurance,Marathon Training
