@@ -23,39 +23,130 @@ templates = {
     },
 
     "Push Pull Legs": {
-        "Monday (Push)": [
-            "Bench Press - 4x8",
-            "Incline Dumbbell Press - 3x10",
-            "Shoulder Press - 3x10",
-            "Tricep Pushdown - 3x12"
-        ],
-        "Tuesday (Pull)": [
-            "Pull-Ups - 4x8",
-            "Barbell Rows - 4x10",
-            "Face Pulls - 3x12",
-            "Bicep Curls - 3x12"
-        ],
-        "Wednesday (Legs)": [
-            "Squats - 4x8",
-            "Romanian Deadlift - 3x10",
-            "Leg Press - 3x12",
-            "Calf Raises - 3x15"
-        ],
-        "Thursday": ["Rest"],
-        "Friday": ["Repeat Push Day"],
-        "Saturday": ["Repeat Pull Day"],
-        "Sunday": ["Repeat Leg Day"]
-    },
+
+    "Monday (Push A)": [
+        "Barbell Bench Press - 4x6-8",
+        "Incline Dumbbell Press - 3x8-10",
+        "Seated Shoulder Press - 3x10-12",
+        "Cable Lateral Raise - 3x12-15",
+        "Tricep Pushdown - 3x10-12",
+        "Overhead Rope Extension - 3x12-15"
+    ],
+
+    "Tuesday (Pull A)": [
+        "Pull-Ups - 4x6-10",
+        "Barbell Row - 4x8-10",
+        "Lat Pulldown - 3x10-12",
+        "Seated Cable Row - 3x10-12",
+        "Face Pull - 3x12-15",
+        "Hammer Curl - 3x10-12"
+    ],
+
+    "Wednesday (Legs A)": [
+        "Back Squat - 4x6-8",
+        "Romanian Deadlift - 3x8-10",
+        "Leg Press - 3x10-12",
+        "Leg Extension - 3x12-15",
+        "Standing Calf Raise - 4x12-15",
+        "Hanging Leg Raise - 3x15"
+    ],
+
+    "Thursday (Push B)": [
+        "Incline Barbell Press - 4x8",
+        "Machine Chest Press - 3x10",
+        "Arnold Press - 3x10",
+        "Cable Chest Fly - 3x12",
+        "Dumbbell Lateral Raise - 3x15",
+        "Skull Crushers - 3x12"
+    ],
+
+    "Friday (Pull B)": [
+        "Deadlift - 3x5",
+        "Chest Supported Row - 3x10",
+        "Single Arm Lat Pulldown - 3x12",
+        "Reverse Pec Deck - 3x15",
+        "EZ Bar Curl - 3x10",
+        "Preacher Curl - 3x12"
+    ],
+
+    "Saturday (Legs B)": [
+        "Front Squat - 4x8",
+        "Bulgarian Split Squat - 3x10",
+        "Hack Squat - 3x12",
+        "Lying Leg Curl - 3x12",
+        "Seated Calf Raise - 4x15",
+        "Cable Crunch - 3x20"
+    ],
+
+    "Sunday": [
+        "Rest & Recovery",
+        "20-30 min Walking",
+        "Stretching & Mobility"
+    ]
+},
 
     "Bro Split": {
-        "Monday": ["Chest Workout"],
-        "Tuesday": ["Back Workout"],
-        "Wednesday": ["Leg Workout"],
-        "Thursday": ["Shoulders Workout"],
-        "Friday": ["Arms Workout"],
-        "Saturday": ["Core + Cardio"],
-        "Sunday": ["Rest"]
-    },
+
+    "Monday (Chest)": [
+        "Barbell Bench Press - 4x6-8",
+        "Incline Dumbbell Press - 3x8-10",
+        "Machine Chest Press - 3x10-12",
+        "Cable Fly - 3x12-15",
+        "Decline Push-Ups - 2xFailure"
+    ],
+
+    "Tuesday (Back)": [
+        "Deadlift - 4x5",
+        "Wide Grip Lat Pulldown - 3x10-12",
+        "Barbell Row - 3x8-10",
+        "Seated Cable Row - 3x10-12",
+        "Straight Arm Pulldown - 3x12-15",
+        "Face Pull - 3x15"
+    ],
+
+    "Wednesday (Legs)": [
+        "Back Squat - 4x6-8",
+        "Romanian Deadlift - 3x8-10",
+        "Leg Press - 3x10-12",
+        "Leg Extension - 3x12-15",
+        "Lying Leg Curl - 3x12-15",
+        "Standing Calf Raise - 4x15-20"
+    ],
+
+    "Thursday (Shoulders)": [
+        "Seated Barbell Shoulder Press - 4x8-10",
+        "Arnold Press - 3x10-12",
+        "Dumbbell Lateral Raise - 3x12-15",
+        "Cable Lateral Raise - 3x15",
+        "Rear Delt Fly - 3x15",
+        "Barbell Shrugs - 4x12"
+    ],
+
+    "Friday (Arms)": [
+        "Close Grip Bench Press - 3x8-10",
+        "Tricep Pushdown - 3x10-12",
+        "Overhead Rope Extension - 3x12-15",
+        "EZ Bar Curl - 3x8-10",
+        "Incline Dumbbell Curl - 3x10-12",
+        "Hammer Curl - 3x12"
+    ],
+
+    "Saturday (Core + Cardio)": [
+        "Plank - 3x60 sec",
+        "Hanging Leg Raise - 3x15",
+        "Cable Crunch - 3x15",
+        "Russian Twist - 3x20",
+        "Mountain Climbers - 3x30 sec",
+        "Incline Treadmill Walk - 20 min"
+    ],
+
+    "Sunday (Recovery)": [
+        "Complete Rest",
+        "Light Stretching - 15 min",
+        "Foam Rolling - 10 min",
+        "Easy Walk - 20 min"
+    ]
+},
 
     # ==========================
     # FAT LOSS

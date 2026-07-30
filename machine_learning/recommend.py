@@ -51,6 +51,15 @@ goal = sys.argv[5]
 
 gender_encoded = gender_encoder.transform([gender])[0]
 level_encoded = level_encoder.transform([fitness_level])[0]
+
+if goal not in goal_encoder.classes_:
+    fallback_goal = goal_encoder.classes_[0]
+    print(
+        f"Warning: Goal '{goal}' not supported by encoder, falling back to '{fallback_goal}'",
+        file=sys.stderr,
+    )
+    goal = fallback_goal
+
 goal_encoded = goal_encoder.transform([goal])[0]
 
 # =====================================
